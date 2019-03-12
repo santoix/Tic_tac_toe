@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(33): warning C4098: 'main': 'void' function returning a value
+c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(66): warning C4098: 'play': 'void' function returning a value
+c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(74): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(74): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(74): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(74): note: this argument is used as a buffer size
+c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(111): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(111): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(111): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\carlos\source\repos\tic_tac_toe\tic_tac_toe\main.c(111): note: this argument is used as a buffer size
+  tic_tac_toe.vcxproj -> C:\Users\Carlos\source\repos\tic_tac_toe\Debug\tic_tac_toe.exe
